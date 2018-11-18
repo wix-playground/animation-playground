@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/wix-playground/animation-playground/issues"
   },
-  "homepage": "https://github.com/wix-playground/animation-playground#readme"
+  "homepage": "https://github.com/wix-playground/animation-playground#readme",
+  "dependencies": {
+    "gsap": "^2.0.2",
+    "normalize.css": "^8.0.1"
+  }
 }
